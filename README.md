@@ -1,5 +1,5 @@
-# How-to-enable-Photo-Image-on-the-Windows-server-2022
-How to enable Photo Image on the Windows server 2022
+# How-to-enable-Photo-Image-on-the-Windows-Server
+How to enable Photo Image on the Windows Server 
 
 1. regsvr32 "C:\Program Files\Windows Photo Viewer\PhotoViewer.dll"
 3. Create reg file and import it
